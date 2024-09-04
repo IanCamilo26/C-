@@ -13,7 +13,7 @@ typedef _persona* Persona;
 Persona crearPersona (Cadena nom, Cadena ci);
 
 int main () {
-    
+    cout << "Hola mundo";
     return 0;
 }
 
