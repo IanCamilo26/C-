@@ -19,6 +19,4 @@ int main () {
 
 Persona crearPersona (Cadena nom, Cadena ci){
     Persona p = new _persona;
-    
-
 }
